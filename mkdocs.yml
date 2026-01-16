@@ -23,6 +23,7 @@ nav:
   - Core Concepts:
       - Parametric Modeling: core-concepts/parametric-modeling.md
       - Sketches & Constraints: core-concepts/sketches.md
+      - Multiple Parts in One Document: core-concepts/multiple-parts-in-one-document.md
   - Mesh & STL Workflows:
       - Analyze & Repair Mesh: mesh-stl/analyze-repair.md
       - Create Shape from Mesh: mesh-stl/create-shape-from-mesh.md
